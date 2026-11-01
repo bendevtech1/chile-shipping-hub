@@ -1,4 +1,4 @@
-# 📦 Chile Shipping Hub (Cotizador Logístico Multicanal)
+#  Chile Shipping Hub (Cotizador Logístico Multicanal)
 
 Plataforma full-stack diseñada para automatizar y comparar en tiempo real las tarifas y tiempos de entrega de los principales couriers de Chile (Starken, Chilexpress y Blue Express).
 
